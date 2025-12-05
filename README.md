@@ -81,4 +81,4 @@ endmodule
 
 **RESULTS**
 
-Thus the SR flipflop is implemented and verified.
+Thus the SR flipflop is implemented and verified..
